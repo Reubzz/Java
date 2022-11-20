@@ -4,8 +4,8 @@ This Repositry contains all Java Source codes of various programs. I did for pra
 
 To run Java Programs:
 
-- Download and Install JDK Development Kit from [here](https://www.oracle.com/in/java/technologies/downloads/)
-- Download and Install any IDE, preferably [Visual Studio Code IDE](https://code.visualstudio.com/). [Download here](https://code.visualstudio.com/Download)
+- Download and Install JDK Development Kit. [Click Here](https://www.oracle.com/in/java/technologies/downloads/)
+- Download and Install any IDE, preferably VSCode. [Click Here](https://code.visualstudio.com/Download)
 - Read this Documentation on more info about how to run Java Codes in VsCode. [Click Here](https://code.visualstudio.com/docs/languages/java#:~:text=In%20order%20to%20run%20Java,Amazon%20Corretto)
 
 ## Folder Structure
