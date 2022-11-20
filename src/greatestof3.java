@@ -1,12 +1,7 @@
-// Any one switch case program
-// greatest of three numbers 
-// Find the determinant Quadratic Root 
-// Read a number and find its square root
-// Find GCD and LCM 
 
 import java.util.Scanner;
 
-public class App {
+public class greatestof3 {
     public static void main(String[] args) {
         int num1, num2, num3, greatest;
         Scanner sc = new Scanner(System.in);
