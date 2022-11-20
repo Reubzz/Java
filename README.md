@@ -1,4 +1,4 @@
-## Getting Started
+# Getting Started
 
 This Repositry contains all Java Source codes of various programs. I did for practice and learning Java.
 
