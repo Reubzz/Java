@@ -29,3 +29,5 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ### What is Java?
 
 Java is a programming language and a platform. It is a high-level object oriented programming language developed by Sun Microsystems. It is a simple programming language, widely used in development of Web Apps, Mobile Apps, Standalone Apps and Enterprise Apps. Java creates JRE (Java Runtime Environment) which is why it is known as a Platform.
+
+Copyright (c) 2022 Reuben George - [MIT License](/LICENSE)
