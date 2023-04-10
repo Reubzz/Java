@@ -8,11 +8,11 @@ class Vectdemo {
         System.out.println("the current size of the vector=" + k);
 
         // Adding Static Elements
-        vec.addElement("one"); // ----adds the object
-        vec.addElement("two");
-        vec.addElement("three");
-        vec.addElement("four");
-        vec.addElement("five");
+        // vec.addElement("one"); // ----adds the object
+        // vec.addElement("two");
+        // vec.addElement("three");
+        // vec.addElement("four");
+        // vec.addElement("five");
 
         // Dynamic Element adding
         // For this to work - run in CMD - java Vectdemo x x x
